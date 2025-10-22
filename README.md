@@ -1,6 +1,9 @@
 ## Cool extensions, userscripts, and userstyles that mimic/restore website layouts 
 Awesome Old Internet!!!1!
 
+<img src="https://github.com/user-attachments/assets/ddcc14a8-66f3-46f2-be95-535462fb7667" width="400" alt="sprite sheet preview">
+
+
 ### YouTube 
 
 - https://vorapis.pages.dev/#/
