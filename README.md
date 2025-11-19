@@ -36,10 +36,10 @@ Awesome Old Internet!!!1!
 ### Twitter
 
 - https://github.com/dimdenGD/OldTwitter
-	- Restores Twitter's old layout; will get you banned
+	- Restores Twitter's old layout
 
 - https://github.com/dimdenGD/OldTweetDeck
-	- Restores TweetDeck's old look; will get you banned
+	- Restores TweetDeck's old look; can risk you getting banned if not careful, please read the repo
 
 - https://userstyles.world/style/22460/some-oldtwitter-2013-fork-read-description
 	- Addon for OldTwitter which restores the 2013 look of Twitter
